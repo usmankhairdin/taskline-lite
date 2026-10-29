@@ -6,6 +6,10 @@ A calm, editable HTML landing page for a fictional work-planning product. A six-
 
 [![Taskline Lite website preview](preview.webp)](https://store.usmankhairdin.com/taskline-lite/)
 
+## Practical guide
+
+[Customize a SaaS landing page and choose the right template scope](guides/customize-a-saas-landing-page.md) — a walkthrough of the actual files, content edits, launch checks and relevant template options.
+
 ## Get started
 
 Choose **Code > Download ZIP**, extract the repository, and open `index.html` in a modern browser. Keep `assets/` beside the HTML file. No framework install, API key or database is required.
